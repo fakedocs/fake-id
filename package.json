@@ -1,0 +1,30 @@
+{
+  "name": "welcome-to-fake-id",
+  "version": "1.0.0",
+  "description": "Verified links to fake id websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakedocs/fake-id.git"
+  },
+  "keywords": [
+    "darknet",
+    "onion",
+    "hidden-service",
+    "tor",
+    "dark-web"
+  ],
+  "author": "FakeIDList <fakeid@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/fakedocs/fake-id/issues"
+  },
+  "homepage": "https://github.com/fakedocs/fake-id#readme",
+  "devDependencies": {
+    "generator-awesome-list": "^2.0.2",
+    "yo": "^4.3.0"
+  }
+}
